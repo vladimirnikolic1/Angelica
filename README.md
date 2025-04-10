@@ -1,14 +1,9 @@
 
 # Angelica font
 
-![Image](image0.jpg)
+![Image](documentation/image1.png)
 
-
-![Image](image1.jpg)
-
-
-![Image](image2.jpg)
-
+![Image](documentation/image2.png)
 
 ## License
 
